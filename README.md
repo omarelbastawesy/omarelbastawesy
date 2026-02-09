@@ -28,7 +28,10 @@ Currently building real-world projects and preparing for **internship / junior f
 ## Tech Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,git,github,vscode&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,git,github,vscode&theme=dark&perline=5"
+    width="320"
+    height="80"
+    />
 </p>
 
 ---
