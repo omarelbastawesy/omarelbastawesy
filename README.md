@@ -55,9 +55,9 @@
 ## Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.zcy.dev/api?username=omarelbastawesy&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" width="50%" />
+  <img src="https://github-readme-stats.zcy.dev/api?username=omarelbastawesy&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" width="30%" />
   
-  <img src="https://streak-stats.demolab.com?user=omarelbastawesy&theme=tokyonight&hide_border=true" width="50%"/>
+  <img src="https://streak-stats.demolab.com?user=omarelbastawesy&theme=tokyonight&hide_border=true" width="30%"/>
 </p>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omarelbastawesy&theme=tokyo-night&area=true&hide_border=true)
