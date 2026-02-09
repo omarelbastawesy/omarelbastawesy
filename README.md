@@ -59,11 +59,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=omarelbastawesy&hide_border=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=omarelbastawesy&hide_border=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarelbastawesy&layout=compact&hide_border=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=omarelbastawesy&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
 ---
