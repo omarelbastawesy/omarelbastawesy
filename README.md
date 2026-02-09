@@ -48,10 +48,10 @@
       <img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=96&animation=glow" alt="javascript" width="96" height="96" />
       <img src="https://www.readmecodegen.com/api/social-icon?name=typescript&size=96&animation=glow" alt="typescript" width="96" height="96" />
       <img src="https://www.readmecodegen.com/api/social-icon?name=sass&size=96&animation=glow" alt="sass" width="96" height="96" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=react&size=96&animation=glow" alt="react" width="96" height="96" />
       <img src="https://www.readmecodegen.com/api/social-icon?name=nextdotjs&size=96&animation=glow&color=%23ffffff" alt="nextdotjs" width="96" height="96" />
       <img src="https://www.readmecodegen.com/api/social-icon?name=nodedotjs&size=96&animation=glow" alt="nodedotjs" width="96" height="96" />
       <img src="https://www.readmecodegen.com/api/social-icon?name=prettier&size=96&animation=glow" alt="prettier" width="96" height="96" />
-      <img src="https://www.readmecodegen.com/api/social-icon?name=atom&size=96&animation=glow" alt="atom" width="96" height="96" />
       <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=96&animation=glow&color=%23ffffff" alt="github" width="96" height="96" />
     </tr>
     <tr>
@@ -64,6 +64,7 @@
       <img src="https://www.readmecodegen.com/api/social-icon?name=figma&size=96&animation=glow" alt="bootstrap" width="96" height="96" />
       <img src="https://www.readmecodegen.com/api/social-icon?name=reactrouter&size=96&animation=glow" alt="bootstrap" width="96" height="96" />
       <img src="https://www.readmecodegen.com/api/social-icon?name=git&size=96&animation=glow" alt="bootstrap" width="96" height="96" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=atom&size=96&animation=glow" alt="atom" width="96" height="96" />
     </tr>
   </table>  
 </div>
