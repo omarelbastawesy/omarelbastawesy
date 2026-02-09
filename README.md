@@ -21,53 +21,43 @@
 
 Frontend Web Developer specializing in **React.js and Next.js**, focused on building scalable, high-performance, and accessible user interfaces.  
 Strong understanding of modern frontend architecture, responsive design, and clean, maintainable code.  
-Actively building real-world projects and preparing for **internship / junior frontend roles**.
+Currently building real-world projects and preparing for **internship / junior frontend roles**.
 
 ---
 
-## Technical Skills
+## Tech Skills
 
-**Frontend**
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js, Next.js (App Router)
-- Tailwind CSS, Bootstrap
-
-**Tools & Workflow**
-- Git & GitHub
-- REST APIs
-- Responsive Design
-- Component-based Architecture
-
-**Currently Learning**
-- Advanced Next.js (SSR, SSG, ISR)
-- Performance Optimization
-- Clean Architecture & Best Practices
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,git,github,vscode&theme=dark&perline=5" />
+</p>
 
 ---
 
 ## Selected Projects
 
-### 🧩 Project Name
-**Description:** Brief, clear explanation of the problem and solution.  
+### Project Name
+**Description:** Clear description of the problem and solution.  
 **Tech:** React, Next.js, Tailwind CSS  
-- Built reusable components
-- Implemented responsive layouts
-- Optimized rendering performance  
 
-🔗 Live Demo: `link`  
-📂 Repository: `link`
+- Component-based architecture  
+- Responsive layouts  
+- Optimized rendering  
+
+🔗 Live Demo: link  
+📂 Repository: link
 
 ---
 
-### 🧩 Project Name
-**Description:** Brief, clear explanation of the problem and solution.  
+### Project Name
+**Description:** Clear description of the problem and solution.  
 **Tech:** React, API Integration, Bootstrap  
-- API data fetching
-- State management
+
+- API data fetching  
+- State management  
 - Clean UI structure  
 
-🔗 Live Demo: `link`  
-📂 Repository: `link`
+🔗 Live Demo: link  
+📂 Repository: link
 
 ---
 
@@ -89,9 +79,9 @@ Actively building real-world projects and preparing for **internship / junior fr
 
 ## Contact
 
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
-- 📧 Email: your-email@gmail.com
-- 🌐 Portfolio: (Coming Soon)
+- LinkedIn: https://linkedin.com/in/your-linkedin  
+- Email: your-email@gmail.com  
+- Portfolio: Coming Soon
 
 ---
 
