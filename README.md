@@ -55,15 +55,18 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=omarelbastawesy&layout=compact&theme=tokyonight" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.zcy.dev/api?username=omarelbastawesy&show_icons=true&hide_border=true&theme=tokyonight" width="45%" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=omarelbastawesy&layout=compact&hide_border=true&theme=tokyonight" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=omarelbastawesy&hide_border=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=omarelbastawesy&layout=compact&hide_border=true&theme=tokyonight" />
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarelbastawesy&theme=tokyonight" width="45%" />
+  <!-- Badges -->
+  ![Followers](https://img.shields.io/github/followers/omarelbastawesy?label=Followers&style=for-the-badge)
+  ![Stars](https://img.shields.io/github/stars/omarelbastawesy?style=for-the-badge)
 </p>
 
 ---
