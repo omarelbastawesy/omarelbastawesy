@@ -30,9 +30,7 @@
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://wa.me/201234567890"><img src="https://www.readmecodegen.com/api/social-icon?name=whatsapp&size=60&animation=glow&link=https%3A%2F%2Fwa.me%2F201234567890" alt="whatsapp" /></a>
 
----
-
-or send me at email: omarelbastawesy1@gmail.com
+# or send me at email: omarelbastawesy1@gmail.com
 
 ## Professional Summary
 
