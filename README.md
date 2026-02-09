@@ -28,19 +28,19 @@
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <table>
     <tr>
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="108" height="108" />
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="108" height="108" />
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="108" height="108" />
-      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="108" height="108" />
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="108" height="108" />
-      <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="108" height="108" />
-      <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=108&animation=glow&color=%23ffffff" alt="github" width="108" height="108" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="120" height="120" />
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="120" height="120" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="120" height="120" />
+      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="120" height="120" />
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="120" height="120" />
+      <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="120" height="120" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=120&animation=glow&color=%23ffffff" alt="github" width="120" height="120" />
     </tr>
     <tr>
-      <img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=108&animation=glow" alt="html5" width="108" height="108"/>
-      <img src="https://www.readmecodegen.com/api/social-icon?name=css&size=108&animation=glow" alt="css" width="108" height="108" />
-      <img src="https://www.readmecodegen.com/api/social-icon?name=tailwindcss&size=108&animation=glow" alt="tailwindcss" width="108" height="108" />
-      <img src="https://www.readmecodegen.com/api/social-icon?name=bootstrap&size=108&animation=glow" alt="bootstrap" width="108" height="108" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=120&animation=glow" alt="html5" width="120" height="120"/>
+      <img src="https://www.readmecodegen.com/api/social-icon?name=css&size=120&animation=glow" alt="css" width="120" height="120" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=tailwindcss&size=120&animation=glow" alt="tailwindcss" width="120" height="120" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=bootstrap&size=120&animation=glow" alt="bootstrap" width="120" height="120" />
     </tr>
   </table>  
 </div>
