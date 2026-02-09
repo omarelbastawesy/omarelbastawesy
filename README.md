@@ -44,7 +44,7 @@
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <table>
-    <tr>
+    <tr style="display: flex; align-items: flex-start; justify-content: space-between;">
       <img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=96&animation=glow" alt="javascript" width="96" height="96" />
       <img src="https://www.readmecodegen.com/api/social-icon?name=typescript&size=96&animation=glow" alt="typescript" width="96" height="96" />
       <img src="https://www.readmecodegen.com/api/social-icon?name=sass&size=96&animation=glow" alt="sass" width="96" height="96" />
@@ -54,7 +54,7 @@
       <img src="https://www.readmecodegen.com/api/social-icon?name=prettier&size=96&animation=glow" alt="prettier" width="96" height="96" />
       <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=96&animation=glow&color=%23ffffff" alt="github" width="96" height="96" />
     </tr>
-    <tr>
+    <tr style="display: flex; align-items: flex-start; justify-content: space-between;">
       <img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=96&animation=glow" alt="html5" width="96" height="96"/>
       <img src="https://www.readmecodegen.com/api/social-icon?name=css&size=96&animation=glow" alt="css" width="96" height="96" />
       <img src="https://www.readmecodegen.com/api/social-icon?name=tailwindcss&size=96&animation=glow" alt="tailwindcss" width="96" height="96" />
