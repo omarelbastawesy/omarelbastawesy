@@ -28,22 +28,21 @@
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <table>
     <tr>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="86" height="86" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="86" height="86" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="86" height="86" />
-  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="86" height="86" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="86" height="86" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="86" height="86" />
-  <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=96&animation=glow&color=%23ffffff" alt="github" width="86" height="86" />
-      
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="86" height="86" />
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="86" height="86" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="86" height="86" />
+      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="86" height="86" />
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="86" height="86" />
+      <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="86" height="86" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=96&animation=glow&color=%23ffffff" alt="github" width="86" height="86" />
     </tr>
-  </table>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=96&animation=glow" alt="html5" width="86" height="86"/>
-  <img src="https://www.readmecodegen.com/api/social-icon?name=css&size=96&animation=glow" alt="css" width="86" height="86" />
-  <img src="https://www.readmecodegen.com/api/social-icon?name=tailwindcss&size=96&animation=glow" alt="tailwindcss" width="86" height="86" />
-  <img src="https://www.readmecodegen.com/api/social-icon?name=bootstrap&size=96&animation=glow" alt="bootstrap" width="86" height="86" />
-![github]()
-  
+    <tr>
+      <img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=96&animation=glow" alt="html5" width="86" height="86"/>
+      <img src="https://www.readmecodegen.com/api/social-icon?name=css&size=96&animation=glow" alt="css" width="86" height="86" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=tailwindcss&size=96&animation=glow" alt="tailwindcss" width="86" height="86" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=bootstrap&size=96&animation=glow" alt="bootstrap" width="86" height="86" />
+    </tr>
+  </table>  
 </div>
 
 ---
