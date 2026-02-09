@@ -1,73 +1,98 @@
-<h1 align="center">Hi 👋, I'm Omar Elbastawesy</h1>
-<h3 align="center">Frontend Web Developer | React & Next.js</h3>
+<h1 align="center">Omar Elbastawesy</h1>
+<p align="center">
+  Frontend Web Developer • React & Next.js
+</p>
 
 <p align="center">
   <a href="https://github.com/your-username">
-    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+  <a href="https://github.com/your-username?tab=followers">
+    <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=flat" />
+  </a>
+  <a href="https://github.com/your-username">
+    <img src="https://img.shields.io/github/stars/your-username?label=Stars&style=flat" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## Professional Summary
 
-- 🚀 Frontend Web Developer focused on **React.js & Next.js**
-- 🎯 Passionate about building **modern, responsive, high-performance UIs**
-- 🧠 Strong foundation in **HTML, CSS, JavaScript**
-- 🌱 Always learning and improving my skills
-- 💼 Currently building my **Portfolio & real-world projects**
+Frontend Web Developer specializing in **React.js and Next.js**, focused on building scalable, high-performance, and accessible user interfaces.  
+Strong understanding of modern frontend architecture, responsive design, and clean, maintainable code.  
+Actively building real-world projects and preparing for **internship / junior frontend roles**.
 
 ---
 
-## 🛠 Tech Stack
+## Technical Skills
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,git,github,vscode" />
-</p>
+**Frontend**
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js, Next.js (App Router)
+- Tailwind CSS, Bootstrap
 
----
+**Tools & Workflow**
+- Git & GitHub
+- REST APIs
+- Responsive Design
+- Component-based Architecture
 
-## 📌 Featured Projects
-
-### 🔹 Project Name
-**Tech:** React, Next.js, Tailwind  
-**Description:** Short description of what the project does.  
-🔗 [Live Demo](#) | 📂 [Repository](#)
-
-### 🔹 Project Name
-**Tech:** React, API, Bootstrap  
-**Description:** Short description of what the project does.  
-🔗 [Live Demo](#) | 📂 [Repository](#)
+**Currently Learning**
+- Advanced Next.js (SSR, SSG, ISR)
+- Performance Optimization
+- Clean Architecture & Best Practices
 
 ---
 
-## 📊 GitHub Stats
+## Selected Projects
+
+### 🧩 Project Name
+**Description:** Brief, clear explanation of the problem and solution.  
+**Tech:** React, Next.js, Tailwind CSS  
+- Built reusable components
+- Implemented responsive layouts
+- Optimized rendering performance  
+
+🔗 Live Demo: `link`  
+📂 Repository: `link`
+
+---
+
+### 🧩 Project Name
+**Description:** Brief, clear explanation of the problem and solution.  
+**Tech:** React, API Integration, Bootstrap  
+- API data fetching
+- State management
+- Clean UI structure  
+
+🔗 Live Demo: `link`  
+📂 Repository: `link`
+
+---
+
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=your-username&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=your-username&hide_border=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## Contact
 
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
+- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
+- 📧 Email: your-email@gmail.com
+- 🌐 Portfolio: (Coming Soon)
 
 ---
 
-⭐ **If you like my work, consider giving my projects a star!**
+**Open to internships, junior frontend roles, and real-world projects.**
