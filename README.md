@@ -52,71 +52,6 @@
 
 ---
 
-<!--
-## Selected Projects
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### Project One
-
-**Description**
-Short, clear explanation of the problem and solution.
-
-**Tech Stack**
-React · Next.js · Tailwind CSS
-
-**Highlights**
-- Component-based architecture
-- Fully responsive layout
-- Optimized rendering & performance
-
-🔗 **Live Demo:** https://example.com
-📂 **Repository:** https://github.com/your-username/project-one
-
-</td>
-<td width="40%" align="right">
-
-<img src="https://user-images.githubusercontent.com/your-image1.png" width="100%" alt="Project One Preview" />
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### Project Two
-
-**Description**
-Short, clear explanation of the problem and solution.
-
-**Tech Stack**
-React · API · Bootstrap
-
-**Highlights**
-- API integration
-- Clean state management
-- Scalable folder structure
-
-🔗 **Live Demo:** https://example.com
-📂 **Repository:** https://github.com/your-username/project-two
-
-</td>
-<td width="40%" align="right">
-
-<img src="https://user-images.githubusercontent.com/your-image2.png" width="100%" alt="Project Two Preview" />
-
-</td>
-</tr>
-</table>
-
----
--->
-
 ## GitHub Analytics
 
 <p align="center">
@@ -135,9 +70,9 @@ React · API · Bootstrap
 
 ## Contact
 
-- LinkedIn: https://linkedin.com/in/your-linkedin
-- Email: your-email@gmail.com
-- Portfolio: Coming Soon
+- LinkedIn: https://www.linkedin.com/in/omar-elbastawesy/
+- Email: omarelbastawesy1@gmail.com
+- Portfolio: https://omarelbastawesy.netlify.app/
 
 ---
 
