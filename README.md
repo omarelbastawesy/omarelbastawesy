@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/your-username">
-    <img src="https://github-readme-stats.vercel.app/api?username=omarelbastawesy&show_icons=true&hide_border=true&theme=tokyonight" />
+    <img src="https://komarev.com/ghpvc/?username=omarelbastawesy&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
   <a href="https://github.com/your-username?tab=followers">
     <img src="https://img.shields.io/github/followers/omarelbastawesy?label=Followers&style=flat" />
