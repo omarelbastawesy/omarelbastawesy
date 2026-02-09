@@ -25,14 +25,77 @@ Currently building real-world projects and preparing for **internship / junior f
 
 ---
 
-## Tech Skills
+## Tech Skills (Motion / Animated)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,git,github,vscode&theme=dark&perline=5"
-    width="320"
-    height="80"
-    />
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,vscode&theme=dark&perline=4" width="480" />
+  </marquee>
 </p>
+
+---
+
+## Selected Projects
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### Project One
+
+**Description**  
+Short, clear explanation of the problem and solution.
+
+**Tech Stack**  
+React · Next.js · Tailwind CSS
+
+**Highlights**
+- Component-based architecture  
+- Fully responsive layout  
+- Optimized rendering & performance  
+
+🔗 **Live Demo:** https://example.com  
+📂 **Repository:** https://github.com/your-username/project-one
+
+</td>
+<td width="40%" align="right">
+
+<img src="https://user-images.githubusercontent.com/your-image1.png" width="100%" alt="Project One Preview" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### Project Two
+
+**Description**  
+Short, clear explanation of the problem and solution.
+
+**Tech Stack**  
+React · API · Bootstrap
+
+**Highlights**
+- API integration  
+- Clean state management  
+- Scalable folder structure  
+
+🔗 **Live Demo:** https://example.com  
+📂 **Repository:** https://github.com/your-username/project-two
+
+</td>
+<td width="40%" align="right">
+
+<img src="https://user-images.githubusercontent.com/your-image2.png" width="100%" alt="Project Two Preview" />
+
+</td>
+</tr>
+</table>
 
 ---
 
