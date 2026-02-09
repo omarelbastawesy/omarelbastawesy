@@ -32,6 +32,8 @@
 
 #### or send me at email: omarelbastawesy1@gmail.com
 
+---
+
 ## Professional Summary
 
 **Frontend Web Developer** skilled in building modern, responsive, and user-friendly web applications. Proficient in HTML5, CSS3, JavaScript (ES6+), **Next.js and React.js**, with strong expertise in styling tools such as Sass, Bootstrap, and Styled Components. Adept at turning UI/UX designs into clean, optimized, and reusable components while ensuring high performance across all devices. Passionate about creating seamless user experiences, writing clean and maintainable code, and continuously learning new technologies to stay aligned with industry trends.
