@@ -38,6 +38,7 @@
   <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="86" height="86" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="86" height="86" />
 </div>
 <!--
 <table align="center">
