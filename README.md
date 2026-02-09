@@ -38,6 +38,7 @@
   <img src="https://www.readmecodegen.com/api/social-icon?name=css" alt="css" width="86" height="86" />
   <img src="https://www.readmecodegen.com/api/social-icon?name=tailwindcss" alt="tailwindcss" width="86" height="86" />
   <img src="https://www.readmecodegen.com/api/social-icon?name=bootstrap" alt="bootstrap" width="86" height="86" />
+  ![github](https://www.readmecodegen.com/api/social-icon?name=github&size=96&animation=glow)
 
 </div>
 
