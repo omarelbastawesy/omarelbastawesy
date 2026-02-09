@@ -5,13 +5,13 @@
 
 <p align="center">
   <a href="https://github.com/your-username">
-    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=omarelbastawesy&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
   <a href="https://github.com/your-username?tab=followers">
-    <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=flat" />
+    <img src="https://img.shields.io/github/followers/omarelbastawesy?label=Followers&style=flat" />
   </a>
   <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/github/stars/your-username?label=Stars&style=flat" />
+    <img src="https://img.shields.io/github/stars/omarelbastawesy?label=Stars&style=flat" />
   </a>
 </p>
 
@@ -55,15 +55,15 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omarelbastawesy&show_icons=true&hide_border=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=your-username&hide_border=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=omarelbastawesy&hide_border=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarelbastawesy&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
 ---
