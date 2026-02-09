@@ -45,24 +45,25 @@
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <table>
     <tr>
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="108" height="108" />
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="108" height="108" />
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="108" height="108" />
-      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="108" height="108" />
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="108" height="108" />
-      <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="108" height="108" />
-      <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=108&animation=glow&color=%23ffffff" alt="github" width="108" height="108" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=96&animation=glow" alt="javascript" width="96" height="96" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=typescript&size=96&animation=glow" alt="typescript" width="96" height="96" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=sass&size=96&animation=glow" alt="sass" width="96" height="96" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=nextdotjs&size=96&animation=glow&color=%23ffffff" alt="nextdotjs" width="96" height="96" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=nodedotjs&size=96&animation=glow" alt="nodedotjs" width="96" height="96" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=prettier&size=96&animation=glow" alt="prettier" width="96" height="96" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=atom&size=96&animation=glow" alt="atom" width="96" height="96" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=96&animation=glow&color=%23ffffff" alt="github" width="96" height="96" />
     </tr>
     <tr>
-      <img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=108&animation=glow" alt="html5" width="108" height="108"/>
-      <img src="https://www.readmecodegen.com/api/social-icon?name=css&size=108&animation=glow" alt="css" width="108" height="108" />
-      <img src="https://www.readmecodegen.com/api/social-icon?name=tailwindcss&size=108&animation=glow" alt="tailwindcss" width="108" height="108" />
-      <img src="https://www.readmecodegen.com/api/social-icon?name=bootstrap&size=108&animation=glow" alt="bootstrap" width="108" height="108" />
-      <img src="https://www.readmecodegen.com/api/social-icon?name=reactquery&size=108&animation=glow" alt="bootstrap" width="108" height="108" />
-      <img src="https://www.readmecodegen.com/api/social-icon?name=axios&size=108&animation=glow" alt="bootstrap" width="108" height="108" />
-      <img src="https://www.readmecodegen.com/api/social-icon?name=figma&size=108&animation=glow" alt="bootstrap" width="108" height="108" />
-      <img src="https://www.readmecodegen.com/api/social-icon?name=reactrouter&size=108&animation=glow" alt="bootstrap" width="108" height="108" />
-      <img src="https://www.readmecodegen.com/api/social-icon?name=git&size=108&animation=glow" alt="bootstrap" width="108" height="108" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=96&animation=glow" alt="html5" width="96" height="96"/>
+      <img src="https://www.readmecodegen.com/api/social-icon?name=css&size=96&animation=glow" alt="css" width="96" height="96" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=tailwindcss&size=96&animation=glow" alt="tailwindcss" width="96" height="96" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=bootstrap&size=96&animation=glow" alt="bootstrap" width="96" height="96" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=reactquery&size=96&animation=glow" alt="bootstrap" width="96" height="96" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=axios&size=96&animation=glow" alt="bootstrap" width="96" height="96" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=figma&size=96&animation=glow" alt="bootstrap" width="96" height="96" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=reactrouter&size=96&animation=glow" alt="bootstrap" width="96" height="96" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=git&size=96&animation=glow" alt="bootstrap" width="96" height="96" />
     </tr>
   </table>  
 </div>
