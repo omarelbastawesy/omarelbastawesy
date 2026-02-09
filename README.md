@@ -55,7 +55,7 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarelbastawesy&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=omarelbastawesy&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
