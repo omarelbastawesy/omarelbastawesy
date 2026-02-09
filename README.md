@@ -41,9 +41,11 @@
       <img src="https://www.readmecodegen.com/api/social-icon?name=css&size=120&animation=glow" alt="css" width="120" height="120" />
       <img src="https://www.readmecodegen.com/api/social-icon?name=tailwindcss&size=120&animation=glow" alt="tailwindcss" width="120" height="120" />
       <img src="https://www.readmecodegen.com/api/social-icon?name=bootstrap&size=120&animation=glow" alt="bootstrap" width="120" height="120" />
-      <img src="https://www.readmecodegen.com/api/social-icon?name=reactquery&size=96&animation=glow" alt="bootstrap" width="120" height="120" />
-      <img src="https://www.readmecodegen.com/api/social-icon?name=axios&size=96&animation=glow" alt="bootstrap" width="120" height="120" />
-      <img src="https://www.readmecodegen.com/api/social-icon?name=figma&size=96&animation=glow" alt="bootstrap" width="120" height="120" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=reactquery&size=120&animation=glow" alt="bootstrap" width="120" height="120" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=axios&size=120&animation=glow" alt="bootstrap" width="120" height="120" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=figma&size=120&animation=glow" alt="bootstrap" width="120" height="120" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=reactrouter&size=120&animation=glow" alt="bootstrap" width="120" height="120" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=git&size=120&animation=glow" alt="bootstrap" width="120" height="120" />
     </tr>
   </table>  
 </div>
