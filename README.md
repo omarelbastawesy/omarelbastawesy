@@ -4,13 +4,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username">
+  <a target="_blank" href="https://github.com/your-username">
     <img src="https://komarev.com/ghpvc/?username=omarelbastawesy&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
-  <a href="https://github.com/your-username?tab=followers">
+  <a target="_blank" href="https://github.com/your-username?tab=followers">
     <img src="https://img.shields.io/github/followers/omarelbastawesy?label=Followers&style=flat" />
   </a>
-  <a href="https://github.com/your-username">
+  <a target="_blank" href="https://github.com/your-username">
     <img src="https://img.shields.io/github/stars/omarelbastawesy?label=Stars&style=flat" />
   </a>
 </p>
@@ -19,16 +19,16 @@
 
 ## Contact
 
-<a href="https://www.linkedin.com/in/omar-elbastawesy/">
+<a target="_blank" href="https://www.linkedin.com/in/omar-elbastawesy/">
   <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=40&animation=glow" alt="linkedin" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:omarelbastawesy1@gmail.com">
+<a target="_blank" href="mailto:omarelbastawesy1@gmail.com">
   <img src="https://www.readmecodegen.com/api/social-icon?name=envelope&size=40&animation=glow" alt="envelope" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://omarelbastawesy.netlify.app/">
+<a target="_blank" href="https://omarelbastawesy.netlify.app/">
   <img src="https://www.readmecodegen.com/api/social-icon?name=frontendmentor&size=40&animation=glow&color=%233b82f6" alt="frontendmentor" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://wa.me/201234567890"><img src="https://www.readmecodegen.com/api/social-icon?name=whatsapp&size=40&animation=glow&link=https%3A%2F%2Fwa.me%2F201234567890" alt="whatsapp" /></a>
+<a target="_blank" href="https://wa.me/201234567890"><img src="https://www.readmecodegen.com/api/social-icon?name=whatsapp&size=40&animation=glow&link=https%3A%2F%2Fwa.me%2F201234567890" alt="whatsapp" /></a>
 
 #### or send me at email: omarelbastawesy1@gmail.com
 
@@ -85,16 +85,16 @@
 
 ## Contact
 
-<a href="https://www.linkedin.com/in/omar-elbastawesy/">
+<a target="_blank" href="https://www.linkedin.com/in/omar-elbastawesy/">
   <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=60&animation=glow" alt="linkedin" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:omarelbastawesy1@gmail.com">
+<a target="_blank" href="mailto:omarelbastawesy1@gmail.com">
   <img src="https://www.readmecodegen.com/api/social-icon?name=envelope&size=60&animation=glow" alt="envelope" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://omarelbastawesy.netlify.app/">
+<a target="_blank" href="https://omarelbastawesy.netlify.app/">
   <img src="https://www.readmecodegen.com/api/social-icon?name=frontendmentor&size=60&animation=glow&color=%233b82f6" alt="frontendmentor" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://wa.me/201234567890"><img src="https://www.readmecodegen.com/api/social-icon?name=whatsapp&size=60&animation=glow&link=https%3A%2F%2Fwa.me%2F201234567890" alt="whatsapp" /></a>
+<a target="_blank" href="https://wa.me/201234567890"><img src="https://www.readmecodegen.com/api/social-icon?name=whatsapp&size=60&animation=glow&link=https%3A%2F%2Fwa.me%2F201234567890" alt="whatsapp" /></a>
 
 --
 
