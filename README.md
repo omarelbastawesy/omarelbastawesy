@@ -70,8 +70,8 @@
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/omar-elbastawesy/
-- Email: omarelbastawesy1@gmail.com
+- LinkedIn: <a href="https://www.linkedin.com/in/omar-elbastawesy/">LinkedIN<a/>
+- Email: maiomarelbastawesy1@gmail.com
 - Portfolio: https://omarelbastawesy.netlify.app/
 
 ---
