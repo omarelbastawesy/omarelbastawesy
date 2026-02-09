@@ -55,7 +55,7 @@
 ## Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarelbastawesy&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=omarelbastawesy&theme=tokyonight&hide_border=true)
