@@ -30,7 +30,7 @@ Currently building real-world projects and preparing for **internship / junior f
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,git,github,vscode&theme=dark&perline=5" />
 </p>
-
+<--
 ---
 
 ## Selected Projects
@@ -94,7 +94,7 @@ React · API · Bootstrap
 </td>
 </tr>
 </table>
-
+-->
 
 ---
 
