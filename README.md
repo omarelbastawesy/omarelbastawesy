@@ -54,32 +54,13 @@
 
 ## Analytics
 
----
 <p align="center">
-  <!-- GitHub Overall Stats -->
   <img src="https://github-readme-stats.zcy.dev/api?username=omarelbastawesy&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" width="550" />
   
-  <!-- Top Languages Pie Chart -->
-  <img src="https://github-readme-stats.zcy.dev/api/top-langs/?username=omarelbastawesy&layout=normal&hide_border=true&theme=tokyonight&langs_count=8" width="550" />
+  ![GitHub Streak](https://streak-stats.demolab.com?user=omarelbastawesy&theme=tokyonight&hide_border=true)
 </p>
-
-<p align="center">
-  <!-- Contributions Graph Snake / Heatmap -->
-  <img src="https://github.com/omarelbastawesy/omarelbastawesy/raw/output/github-contribution-grid-snake.svg" width="100%" />
-</p>
-
-<p align="center">
-  <!-- Badges / Stats -->
-  ![Followers](https://img.shields.io/github/followers/omarelbastawesy?label=Followers&style=for-the-badge)
-  ![Stars](https://img.shields.io/github/stars/omarelbastawesy?style=for-the-badge)
-  ![Repos](https://img.shields.io/github/repos/omarelbastawesy?style=for-the-badge)
-</p>
----
-
-![GitHub Streak](https://streak-stats.demolab.com?user=omarelbastawesy&theme=tokyonight&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omarelbastawesy&theme=tokyo-night&area=true&hide_border=true)
-
 
 ---
 
