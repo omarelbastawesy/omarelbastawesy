@@ -80,3 +80,5 @@
   <img src="https://www.readmecodegen.com/api/social-icon?name=frontendmentor&size=60&animation=glow&color=%233b82f6" alt="frontendmentor" />
 </a>
 
+or send me at email: omarelbastawesy1@gmail.com
+
