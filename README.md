@@ -25,7 +25,7 @@
 
 ## Tech Skills
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: "15px">
+<div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap; gap: 16px;">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="86" height="86" />
