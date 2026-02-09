@@ -70,14 +70,15 @@
 
 ## Contact
 
-
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+<table>  
+  <tr>
   <a href="https://www.linkedin.com/in/omar-elbastawesy/"><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=60&animation=glow&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fomar-elbastawesy%2F" alt="linkedin" /></a>
 
   <a href="mailto:omarelbastawesy1@gmail.com"><img src="https://www.readmecodegen.com/api/social-icon?name=envelope&size=60&animation=glow&link=mailto%3Aomarelbastawesy1%40gmail.com" alt="envelope" /></a>
 
   <a href="https://omarelbastawesy.netlify.app/"><img src="https://www.readmecodegen.com/api/social-icon?name=frontendmentor&size=60&animation=glow&color=%233b82f6&link=https%3A%2F%2Fomarelbastawesy.netlify.app%2F" alt="frontendmentor" /></a>
-</div>
+  </tr>
+</table>  
 
 ---
 
