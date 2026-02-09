@@ -56,17 +56,14 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.zcy.dev/api?username=omarelbastawesy&show_icons=true&hide_border=true&theme=tokyonight" width="45%" />
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=omarelbastawesy&layout=compact&hide_border=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.zcy.dev/api?username=omarelbastawesy&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" width="45%" />
+  <!-- Top Languages Pie Chart -->
+  <img src="https://github-readme-stats.zcy.dev/api/top-langs/?username=omarelbastawesy&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" width="45%" />
 </p>
 
 <p align="center">
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarelbastawesy&theme=tokyonight" width="45%" />
-  <!-- Badges -->
-  ![Followers](https://img.shields.io/github/followers/omarelbastawesy?label=Followers&style=for-the-badge)
-  ![Stars](https://img.shields.io/github/stars/omarelbastawesy?style=for-the-badge)
+  <!-- Contributions Graph -->
+  ![GitHub Contributions](https://github.com/omarelbastawesy/omarelbastawesy/raw/output/github-contribution-grid-snake.svg)
 </p>
 
 ---
