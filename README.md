@@ -20,17 +20,17 @@
 ## Contact
 
 <a href="https://www.linkedin.com/in/omar-elbastawesy/">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=60&animation=glow" alt="linkedin" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=40&animation=glow" alt="linkedin" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:omarelbastawesy1@gmail.com">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=envelope&size=60&animation=glow" alt="envelope" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=envelope&size=40&animation=glow" alt="envelope" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://omarelbastawesy.netlify.app/">
-  <img src="https://www.readmecodegen.com/api/social-icon?name=frontendmentor&size=60&animation=glow&color=%233b82f6" alt="frontendmentor" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=frontendmentor&size=40&animation=glow&color=%233b82f6" alt="frontendmentor" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://wa.me/201234567890"><img src="https://www.readmecodegen.com/api/social-icon?name=whatsapp&size=60&animation=glow&link=https%3A%2F%2Fwa.me%2F201234567890" alt="whatsapp" /></a>
+<a href="https://wa.me/201234567890"><img src="https://www.readmecodegen.com/api/social-icon?name=whatsapp&size=40&animation=glow&link=https%3A%2F%2Fwa.me%2F201234567890" alt="whatsapp" /></a>
 
-# or send me at email: omarelbastawesy1@gmail.com
+#### or send me at email: omarelbastawesy1@gmail.com
 
 ## Professional Summary
 
