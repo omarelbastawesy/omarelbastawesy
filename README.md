@@ -72,10 +72,10 @@
 
 <a href="https://www.linkedin.com/in/omar-elbastawesy/">
   <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=60&animation=glow" alt="linkedin" />
-</a>&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:omarelbastawesy1@gmail.com">
   <img src="https://www.readmecodegen.com/api/social-icon?name=envelope&size=60&animation=glow" alt="envelope" />
-</a>&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://omarelbastawesy.netlify.app/">
   <img src="https://www.readmecodegen.com/api/social-icon?name=frontendmentor&size=60&animation=glow&color=%233b82f6" alt="frontendmentor" />
 </a>
