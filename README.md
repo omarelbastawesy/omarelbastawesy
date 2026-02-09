@@ -35,29 +35,66 @@ Currently building real-world projects and preparing for **internship / junior f
 
 ## Selected Projects
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 ### Project Name
-**Description:** Clear description of the problem and solution.  
-**Tech:** React, Next.js, Tailwind CSS  
 
-- Component-based architecture  
-- Responsive layouts  
-- Optimized rendering  
+**Description**  
+Short, clear explanation of the problem and how you solved it.
 
-🔗 Live Demo: link  
-📂 Repository: link
+**Tech Stack**  
+React · Next.js · Tailwind CSS
+
+**Highlights**
+- Component-based architecture
+- Fully responsive layout
+- Optimized rendering & performance
+
+🔗 **Live Demo:** https://example.com  
+📂 **Repository:** https://github.com/your-username/project
+
+</td>
+<td width="40%" align="right">
+
+<img src="https://user-images.githubusercontent.com/your-image.png" width="100%" alt="Project Preview" />
+
+</td>
+</tr>
+</table>
 
 ---
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 ### Project Name
-**Description:** Clear description of the problem and solution.  
-**Tech:** React, API Integration, Bootstrap  
 
-- API data fetching  
-- State management  
-- Clean UI structure  
+**Description**  
+Short, clear explanation of the problem and how you solved it.
 
-🔗 Live Demo: link  
-📂 Repository: link
+**Tech Stack**  
+React · API · Bootstrap
+
+**Highlights**
+- API integration
+- Clean state management
+- Scalable folder structure
+
+🔗 **Live Demo:** https://example.com  
+📂 **Repository:** https://github.com/your-username/project
+
+</td>
+<td width="40%" align="right">
+
+<img src="https://user-images.githubusercontent.com/your-image.png" width="100%" alt="Project Preview" />
+
+</td>
+</tr>
+</table>
+
 
 ---
 
