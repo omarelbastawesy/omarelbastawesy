@@ -78,7 +78,10 @@
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://omarelbastawesy.netlify.app/">
   <img src="https://www.readmecodegen.com/api/social-icon?name=frontendmentor&size=60&animation=glow&color=%233b82f6" alt="frontendmentor" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://wa.me/201234567890"><img src="https://www.readmecodegen.com/api/social-icon?name=whatsapp&size=96&animation=glow&link=https%3A%2F%2Fwa.me%2F201234567890" alt="whatsapp" /></a>
+
+---
 
 or send me at email: omarelbastawesy1@gmail.com
 
