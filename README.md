@@ -32,14 +32,14 @@
   <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="86" height="86" />
-  <img src="https://www.readmecodegen.com/api/social-icon?name=github" alt="github" width="86" height="86" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=github&size=96&animation=glow&color=%23ffffff" alt="github" width="86" height="86" />
   <img src="https://www.readmecodegen.com/api/social-icon?name=html5" alt="html5" width="86" height="86"/>
   <img src="https://www.readmecodegen.com/api/social-icon?name=css" alt="css" width="86" height="86" />
   <img src="https://www.readmecodegen.com/api/social-icon?name=css" alt="css" width="86" height="86" />
   <img src="https://www.readmecodegen.com/api/social-icon?name=tailwindcss" alt="tailwindcss" width="86" height="86" />
   <img src="https://www.readmecodegen.com/api/social-icon?name=bootstrap" alt="bootstrap" width="86" height="86" />
-  ![github](https://www.readmecodegen.com/api/social-icon?name=github&size=96&animation=glow)
-
+![github]()
+  
 </div>
 
 ---
